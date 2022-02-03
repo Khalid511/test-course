@@ -1,2 +1,2 @@
 # test-course
-This for the coursera course purpose
+This is for the coursera course purpose
